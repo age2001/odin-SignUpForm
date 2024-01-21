@@ -1,5 +1,6 @@
 html, body {
     height: 100%;
+    margin: 0;
 }
 
 body {
@@ -12,11 +13,25 @@ img {
 }
 
 form {
-    
+
+}
+
+label {
+    display: block;
 }
 
 .left-bar {
-    
+
+}
+
+.right-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+form, div.account-div, div.info-div {
+    margin: 20px 0;
 }
 
 .info-div {
