@@ -5,6 +5,7 @@ html, body {
 
 body {
     display: flex;
+    overflow: hidden;
 }
 
 img {
@@ -28,7 +29,6 @@ label {
 }
 
 form, div.account-div, div.info-div {
-    /* margin: 20px 40px; */
     padding: 20px 40px;
 }
 
@@ -41,7 +41,27 @@ form {
 .info-div {
     height: 100%;
     background-color: #f9fafb;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 
+}
+
+.field-div {
+    display: flex;
+    justify-content: left;
+}
+
+.left-field-div {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 5px;
+}
+
+.right-field-div {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 5px;
 }
 
 .account-div {
