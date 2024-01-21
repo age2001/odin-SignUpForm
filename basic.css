@@ -12,32 +12,39 @@ img {
     height: 100%;
 }
 
-form {
-
-}
-
 label {
     display: block;
 }
 
 .left-bar {
-
+    
 }
 
 .right-bar {
+    width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
 form, div.account-div, div.info-div {
-    margin: 20px 0;
+    /* margin: 20px 40px; */
+    padding: 20px 40px;
+}
+
+form {
+    background-color: white;
+    box-shadow: 2px 2px 5px grey;
+    z-index: 1;
 }
 
 .info-div {
+    height: 100%;
+    background-color: #f9fafb;
 
 }
 
 .account-div {
-
+    height: 100%;
+    background-color: #f9fafb;
 }
