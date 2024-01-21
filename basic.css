@@ -1,3 +1,28 @@
 html, body {
     height: 100%;
 }
+
+body {
+    display: flex;
+}
+
+img {
+    width: auto;
+    height: 100%;
+}
+
+form {
+    
+}
+
+.left-bar {
+    
+}
+
+.info-div {
+
+}
+
+.account-div {
+
+}
