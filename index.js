@@ -1,6 +1,7 @@
 let mainForm = document.querySelector("form");
 let passwordField = document.getElementById("password");
 let confirmPasswordField = document.getElementById("confirmpassword");
+
 let notMatchingPasswordMsg = document.createElement("p");
 notMatchingPasswordMsg.textContent = "* Passwords do not match!"
 notMatchingPasswordMsg.classList.add("tiny-text");
