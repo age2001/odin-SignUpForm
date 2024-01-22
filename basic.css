@@ -50,6 +50,7 @@ form {
 .field-div {
     display: flex;
     justify-content: left;
+    flex-wrap: wrap;
 }
 
 .left-field-div {
