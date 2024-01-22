@@ -103,6 +103,10 @@ a {
     font-size: large;
 }
 
+.account-div p {
+    font-weight: 600;
+}
+
 label, .tiny-text {
     font-size: x-small;
     font-weight: bold;
