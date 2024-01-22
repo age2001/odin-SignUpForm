@@ -16,4 +16,4 @@ it would allow me to ask for a more specific input.
 - Figuring out my own css styling and applying it to this page would be good practice for coming up with styles for future
 pages.
 
-### Image by [Haile West](https://unsplash.com/photos/green-leaf-plant-in-close-up-photography-25xggax4bSA).
+### Image by [Halie West](https://unsplash.com/photos/green-leaf-plant-in-close-up-photography-25xggax4bSA).
