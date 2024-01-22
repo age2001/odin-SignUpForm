@@ -105,3 +105,20 @@ label, .tiny-text {
 .tiny-text {
     color: red;
 }
+
+.logo-text {
+    display: flex;
+    position: absolute;
+    height: 100px;
+    top: 200px;
+    left: 0;
+    right: 0;
+    color: white;
+    background-color: rgb(0,0,0,0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.left-bar {
+    position: relative;
+}
