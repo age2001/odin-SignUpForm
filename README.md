@@ -6,4 +6,4 @@
 correctly to forms for submissions.
 - I also learned about using JavaScript and event listeners to override form submissions to include extra logic,
 which in this case was to check whether the password and confirm password input fields had the same text.
-- This further allowed me to practice DOM manipulation with JavaScript, as I had text show up if the password fields were not matching.
+  - This further allowed me to practice DOM manipulation with JavaScript, as I had text show up if the password fields were not matching.
