@@ -97,7 +97,11 @@ a {
     font-size: large;
 }
 
-label {
+label, .tiny-text {
     font-size: x-small;
     font-weight: bold;
+}
+
+.tiny-text {
+    color: red;
 }
