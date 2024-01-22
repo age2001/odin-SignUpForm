@@ -90,6 +90,7 @@ form {
     width: 175px;
     height: 40px;
     cursor: pointer;
+    font-weight: bolder;
 }
 
 a {
