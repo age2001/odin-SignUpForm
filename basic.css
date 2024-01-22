@@ -1,3 +1,7 @@
+*:focus {
+    outline: 0;
+}
+
 html, body {
     height: 100%;
     margin: 0;
@@ -17,8 +21,18 @@ label {
     display: block;
 }
 
-.left-bar {
-    
+input {
+    border-color: #E5E7EB;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: solid;
+    width: 200px;
+    height: 20px;
+}
+
+input:focus {
+    border-color: blue;
+    border-width: 1px;
 }
 
 .right-bar {
@@ -51,6 +65,7 @@ form {
     display: flex;
     justify-content: left;
     flex-wrap: wrap;
+    max-width: 550px;
 }
 
 .left-field-div {
